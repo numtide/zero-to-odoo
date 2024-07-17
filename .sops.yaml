@@ -1,0 +1,6 @@
+creation_rules:
+  - path_regex: ^hosts/odoo1/secrets.yaml$
+    key_groups:
+      - age:
+        - age1ngrn3qcw9e2ml6me96es9849n6xls0zrh8ews68uxspr9gme6shs3g2ez3
+        - age1jrh8yyq3swjru09s75s4mspu0mphh7h6z54z946raa9wx3pcdegq0x8t4h
